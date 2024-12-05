@@ -6,9 +6,9 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-@Ozodbek_Jalilov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@Ozodbek_Fakhriddinovich-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
-[![Youtube Badge](https://img.shields.io/badge/@Ozodbek_Fakhriddinovich-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Linkedin Badge](https://img.shields.io/badge/-@Ozodbek_Fakhriddinovich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozodbek-fakhriddinovich-100845186/)](https://www.linkedin.com/in/ozodbek-fakhriddinovich-100845186/) 
+[![Telegram Badge](https://img.shields.io/badge/@Ozodbek_Fakhriddinovich-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ozodbekfakhriddinovich)](https://t.me/ozodbekfakhriddinovich) 
+[![Youtube Badge](https://img.shields.io/badge/@Ozodbek_Fakhriddinovich-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Ozodbek_Fakhriddinovich)](https://www.youtube.com/@Ozodbek_Fakhriddinovich)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
